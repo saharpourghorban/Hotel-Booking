@@ -1,3 +1,7 @@
+//I removed node-modules file since it was heavy so you should install Yarn in the root folder and server folder before runing the project 
+
+
+//create react app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
