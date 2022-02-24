@@ -1,4 +1,4 @@
-//I removed node-modules file since it was heavy so you should install Yarn in the root folder and server folder before runing the project 
+//Yarn install in the root folder and server folder before runing the project 
 
 
 //create react app
